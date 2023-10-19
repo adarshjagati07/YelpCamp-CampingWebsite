@@ -25,8 +25,8 @@ This is a camping website, I have used MERN(mongodb express and nodejs) Stack to
 -  Create a cloudinary account to get an API key and secret code.
 
 ```sh
-git clone https://github.com/adarshjagati07/YelpCamp-CampingWebsite-.git
-cd YelpCamp-CampingWebsite-
+git clone https://github.com/adarshjagati07/YelpCamp-CampingWebsite.git
+cd YelpCamp-CampingWebsite
 npm install
 ```
 
